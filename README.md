@@ -1,7 +1,7 @@
 ![Hyperbard logo](/assets/images/hyperbard.svg)
 
 Hyperbard is a new dataset presenting diverse relational data
-representation derived from William Shakespeare's plays. Our goal is to
+representations derived from William Shakespeare's plays. Our goal is to
 show the power of different representations, in particular those that
 make use of concepts from hypergraphs.
 
