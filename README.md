@@ -1,5 +1,3 @@
-# Hyperbard: All the World's a (Hyper)Graph
-
 ![Hyperbard logo](/assets/images/hyperbard.svg)
 
 Hyperbard is a new dataset presenting diverse relational data
