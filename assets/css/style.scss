@@ -6,9 +6,9 @@
 a {
     text-decoration: none;
     color: #24292e;
-    border-bottom: 1px dotted #24292e;
+    text-decoration-style: dotted;
 }
 a:hover {
     color: #B6313E;
-    text-decoration: underline;
+    text-decoration-style: solid;
 }
