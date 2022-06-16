@@ -17,7 +17,7 @@ highlighting the advantages and drawbacks of specific representations.
 Hyperbard is a work in progress. 
 You can:
 - check out our [data](https://doi.org/10.5281/zenodo.6627158),
-- read our [paper](),
+- read our [paper]() (whose appendix includes the dataset documentation),
 - work through our [tutorials](https://github.com/hyperbard/tutorials), or
 - contribute to our
 [code](https://github.com/hyperbard/hyperbard).
