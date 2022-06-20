@@ -1,5 +1,6 @@
 ![Hyperbard logo](/assets/images/hyperbard.svg)
 
+[![arXiv](https://img.shields.io/badge/arXiv-2206.08225-b31b1b.svg?style=flat)](https://arxiv.org/abs/2206.08225)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6627158.svg)](https://doi.org/10.5281/zenodo.6627158)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hyperbard/sandbox/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fhyperbard%252Ftutorials%26urlpath%3Dlab%252Ftree%252Ftutorials%252Fnotebooks%252Fwelcome.ipynb%26branch%3Dmain)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6627160.svg)](https://doi.org/10.5281/zenodo.6627160)
